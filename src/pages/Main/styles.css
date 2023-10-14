@@ -1,0 +1,21 @@
+.custom-search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px; /* Adjust the margin based on your design */
+
+}
+
+.custom-search-bar input {
+    padding: 20px; 
+    font-size: 20px; 
+    height: 40px; 
+
+}
+
+.custom-search-bar button {
+    font-size: 20px; 
+    margin-left: 10px; 
+
+   
+}
